@@ -65,7 +65,7 @@ Copy the code from `chatgpt-boost.js` in the current project to the `content.js`
 - type `gpt`, press `Tab`
 - type your question, and press `Enter`
 
-Done! [Video](./assets/run.mp4)
+Done!
 
 ![ChatGPT](./assets/openai.jpeg)
 
