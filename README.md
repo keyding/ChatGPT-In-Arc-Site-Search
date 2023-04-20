@@ -33,6 +33,8 @@ the shortcut command entered in the command bar. e.g. `gpt`
 
 Any one of the above two options can be chosen.
 
+If you are using Poe's ChatGPT, enter https://poe.com/chatGPT/?q=%s. 
+
 ### Create New Boost
 
 Click `+` in the bottom left corner and click `New Boost`, to create a new Boost.
@@ -63,4 +65,17 @@ Copy the code from `chatgpt-boost.js` in the current project to the `content.js`
 - type `gpt`, press `Tab`
 - type your question, and press `Enter`
 
-Done!
+Done! [Video](./assets/run.mp4)
+
+![ChatGPT](./assets/openai.jpeg)
+
+## Poe
+
+There's a new boost([poe-chatgpt-boost.js](./poe-chatgpt-boost.js)) for [Poe ChatGPT](https://poe.com/chatgpt), and the usage is the same as above. 
+
+Differences
+
+- **URL with %s in place of query**: https://poe.com/chatgpt/?q=%s
+- **Boost a specific website**: https://poe.com
+
+![Poe](./assets/poe.jpeg)
